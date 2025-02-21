@@ -17,15 +17,25 @@ Citation
 
 If you find interesting our results, or you use or code/ideas please consider to cite our work:
 
+
 @misc{conde2021exploring,
+
       title={Exploring Vision Transformers for Fine-grained Classification}, 
+      
       author={Marcos V. Conde and Kerem Turgutlu},
+      
       year={2021},
+      
       eprint={2106.10587},
+      
       archivePrefix={arXiv},
+      
       primaryClass={cs.CV}
+      
 }
+
 References
+
 Multi-branch and Multi-scale Attention Learning for Fine-Grained Visual Categorization
 Look Closer to See Better: Recurrent Attention Convolutional Neural Network for Fine-grained Image Recognition
 See Better Before Looking Closer: Weakly Supervised Data Augmentation Network for Fine-Grained Visual Classification
