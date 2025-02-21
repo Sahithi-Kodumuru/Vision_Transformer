@@ -10,9 +10,11 @@ We demonstrate the value of our approach by experimenting with four popular fine
 ![image](https://github.com/user-attachments/assets/1d6e40c6-f44f-47ad-b887-2aa3b2ab25be)
 
 Instructions
+
 Upcoming
 
 Citation
+
 If you find interesting our results, or you use or code/ideas please consider to cite our work:
 
 @misc{conde2021exploring,
